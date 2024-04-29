@@ -44,6 +44,8 @@ You can download DIR BUT not build it:
 
 `slackpkg_build xfce` will download all xfce DIR. etc...
 
+`slackpkg_build emacs` will download emacs source folder and ask if you want to build.
+
 ==============
 
 **what is not doing:**
