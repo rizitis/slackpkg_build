@@ -1,6 +1,9 @@
 # slackpkg_build
-=========
 
+*is a part of [Slackware-Commander](https://github.com/rizitis/Slackware-Commander)*
+
+
+=========
 
 **How it works:**
 
