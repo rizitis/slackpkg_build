@@ -214,7 +214,7 @@ while true; do
         break  
     elif [[ "$answer" == "n" || "$answer" == "no" ]]; then
         echo -e "${BLUE}Stopping the build progress.${RESET}"
-        echo -e "${BLUE}You may continue in /tmp/slackpkg-build/$package/$package.${RESET}"
+        echo -e "${BLUE}You may continue in /tmp/slackpkg-build/$package ${RESET}"
         exit 0  # Stop the script if the user says "no"
     else
         echo -e "${RED}Invalid response. Please enter 'yes' or 'no'.${RESET}"
