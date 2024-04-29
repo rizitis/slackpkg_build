@@ -16,6 +16,7 @@ When you command `slackpkg_build <package name>` script do:
 **Options:**
 
 You can download and build a package
+
 You can download DIR BUT not build it:
 ```
 [DIR]	a/ 	 	 
