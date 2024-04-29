@@ -188,7 +188,7 @@ echo -e "${BLUE}===================${RESET}\n"
 # Loop until a valid response is provided
 while true; do
 
-    read -p "$(echo -e "${BLUE}Do you want to build or stop? (yes/no):${RESET}")" answer
+    read -p "$(echo -e "Do you want to build or stop? (yes/no):")" answer
 
     # Convert response to lowercase for consistency
     answer=$(echo "$answer" | tr '[:upper:]' '[:lower:]')
