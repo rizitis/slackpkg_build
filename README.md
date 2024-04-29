@@ -68,3 +68,4 @@ Assume you install it in `/usr/local/bin/`
 `# slackpkg_build <package>`
 > will download an offially slackware source DIR or package for hacking  or to build it as is... 
 
+[![asciicast](https://asciinema.org/a/PyahkBW8Q3EtDtj4dn9rxLvi2.svg)](https://asciinema.org/a/PyahkBW8Q3EtDtj4dn9rxLvi2)
